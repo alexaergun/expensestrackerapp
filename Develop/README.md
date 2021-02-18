@@ -25,7 +25,7 @@ To start the server, run `npm start`. To access the app after starting the serve
 
 ## Example Usage
 
-Deployed App: 
+Deployed App: https://expense-tracker0000.herokuapp.com/
 
 An example screenshot of the application is below.
 
