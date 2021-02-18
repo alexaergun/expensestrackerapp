@@ -29,7 +29,7 @@ Deployed App:
 
 An example screenshot of the application is below.
 
-![screenshot]()
+![screenshot](assets/screenshot1.jpg)
 
 ## License
 
