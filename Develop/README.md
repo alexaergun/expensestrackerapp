@@ -30,6 +30,7 @@ Deployed App:
 An example screenshot of the application is below.
 
 ![screenshot](assets/screenshot1.jpg)
+![screenshot](assets/screenshot.jpg)
 
 ## License
 
