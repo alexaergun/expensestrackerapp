@@ -136,15 +136,15 @@ function renderTransactionsChart() {
   populateChart();
 }
 
-function populateTotal() {
-  // reduce transaction amounts to a single total value
-  const total = transactions.reduce((total, t) => {
-    return total + parseInt(t.value);
-  }, 0);
+function populateTotal() 
+  $('<th></th>').text(function() { 
+    return this.reduce(function(old, add) {
+        return old + add;
+    }, 0); 
 
   const totalEl = document.querySelector("#total");
   totalEl.textContent = total;
-}
+},
 
 function populateTable() {
   const tbody = document.querySelector("#tbody");
@@ -160,7 +160,7 @@ function populateTable() {
 
     tbody.appendChild(tr);
   });
-}
+},
 
 function populateChart() {
   // copy array and reverse it
