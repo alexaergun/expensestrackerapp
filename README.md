@@ -29,8 +29,8 @@ Deployed App: https://expense-tracker0000.herokuapp.com/
 
 An example screenshot of the application is below.
 
-![screenshot](assets/screenshot1.jpg)
-![screenshot](assets/screenshot.jpg)
+![screenshot](develop/assets/screenshot1.jpg)
+![screenshot](develop/assets/screenshot.jpg)
 
 ## License
 
@@ -41,3 +41,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you want to contribute, open a Pull Request and include a detailed description and screenshots of the changes.
 
 ## Questions
+
