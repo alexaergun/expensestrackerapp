@@ -27,10 +27,9 @@ To start the server, run `npm start`. To access the app after starting the serve
 
 Deployed App: https://expense-tracker0000.herokuapp.com/
 
-An example screenshot of the application is below.
+##Screenshot of App.
 
-![screenshot](develop/assets/screenshot1.jpg)
-![screenshot](develop/assets/screenshot.jpg)
+An example screenshot of the application in Develop, README.md
 
 ## License
 
